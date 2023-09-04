@@ -6,3 +6,4 @@ const blogRoute = require('./routes/blog');
 app.use(express.json());
 app.use('/', blogRoute);
 module.exports = app;
+
