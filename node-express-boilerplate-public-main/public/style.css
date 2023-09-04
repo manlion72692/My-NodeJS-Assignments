@@ -1,0 +1,11 @@
+body {
+    background-color: steelblue;
+    color: white;
+}
+.user_container{
+    width: 250px;
+    margin: 10px;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid white;
+}
